@@ -1,0 +1,20 @@
+{
+  "name": "kcc-genesis-contracts",
+  "version": "1.0.0",
+  "description": "kcc-genesis-contracts",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "nunjucks": "^3.2.3",
+    "truffle": "^5.4.3"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.9"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "",
+  "license": "ISC"
+}
